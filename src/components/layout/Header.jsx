@@ -25,7 +25,7 @@ const Header = () => {
           <img
             src={TH_name}
             alt="Troubled Hubble"
-            className="h-8 md:h-10 w-auto brightness-0 invert"
+            className="h-10 md:h-10 w-auto brightness-0 invert"
           />
           {/* <Navigation /> */}
         </div>
